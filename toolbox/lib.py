@@ -48,7 +48,7 @@ def clean_data(data):
     return data
 
 def test_first_commit():
-    print('hi bb')
+    print('hi bb hi')
 
 
 if __name__ == '__main__':
