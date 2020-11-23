@@ -47,6 +47,9 @@ def clean_data(data):
     data.loc[:, 'Frequency'] = data['Frequency'].map(drows)
     return data
 
+def test_first_commit():
+    print('hi bb')
+
 
 if __name__ == '__main__':
     # For introspections purpose to quickly get this functions on ipython
